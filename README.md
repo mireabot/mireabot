@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mireabot&label=Profile%20views&color=0e75b6&style=flat" alt="mireabot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mireabot" alt="mireabot" /></a> </p>
-
 - 🔭 I’m currently working on [RemMember](https://github.com/mireabot/RemMember)
 
 - 🌱 I’m currently learning **Advanced coding on Swift, Leetcode problems**
