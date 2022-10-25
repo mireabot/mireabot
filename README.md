@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Advanced coding on Swift, Leetcode problems**
 
-- 👨‍💻 All of my projects are available at [https://michaelk.site/](https://michaelk.site/)
-
 - 📫 How to reach me **michael.kolkov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
