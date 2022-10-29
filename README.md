@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Kolkov</h1>
-<h3 align="center">iOS Engineer and UX designer based in NYC. My passion - creating modern and user-friendly applications with the newest technical tools. In my projects, I use both SwiftUI and UIKit. As an UX designer, I use Figma as my primary tool for prototyping, wireframing. My strong side is mobile applications, so I'm good at creating new ones or redesigning old.</h3>
+<h3 align="center">iOS Engineer and UX designer based in NYC. My passion - creating modern and user-friendly applications with the newest technical tools. In my projects, I use both SwiftUI and UIKit. My strong side is mobile applications, so I'm good at creating new ones or redesigning old.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mireabot&label=Profile%20views&color=0e75b6&style=flat" alt="mireabot" /> </p>
 
