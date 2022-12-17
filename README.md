@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Michael Kolkov</h1>
-<h3 align="center">iOS Engineer & Interface designer with 2 years of experience. My passion - creating modern and user-friendly applications with the newest technical tools. In my projects, I use both SwiftUI and UIKit. My strong side is mobile applications, so I'm good at creating new ones or redesigning old.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mireabot&label=Profile%20views&color=0e75b6&style=flat" alt="mireabot" /> </p>
 
