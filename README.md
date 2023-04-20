@@ -1,16 +1,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mireabot&label=Profile%20views&color=0e75b6&style=flat" alt="mireabot" /> </p>
 
-- 🔭 I’m currently working on [Expensaro](https://github.com/mireabot/Expensaro) and portfolio updates
+- 🔭 I’m currently working on [NYCoworker](https://www.nycoworker.com/)
 
-- 🌱 I’m currently learning **Advanced coding on Swift, Leetcode problems**
+- 🌱 Open to **iOS Software Engineer positions** in US or remote
 
 - 📫 How to reach me **michael.kolkov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michaelkolkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelkolkov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mireabot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mireabot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
