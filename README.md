@@ -8,4 +8,4 @@ I'm working on [NYCoworker](https://www.nycoworker.com) for iOS - solution for p
 
 Besides, I'm always improving my iOS Developer skills by creating portfolio projects which represents newest technologies I have learned. For recent 6 months I polished my knowledge in SnapKit, Alamofire and Combine frameworks.
 
-![Michael Kolkov's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mireabot&show_icons=true&theme=slateorange)
+![Michael Kolkov's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mireabot&show_icons=true&theme=default)
