@@ -1,16 +1,11 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mireabot&label=Profile%20views&color=0e75b6&style=flat" alt="mireabot" /> </p>
+# Greetings!
 
-- 🔭 I’m currently working on [NYCoworker](https://www.nycoworker.com/)
+I'm T-shaped iOS software engineer with proficiency in building user interfaces and a broad range of skills, including in-depth knowledge of Backend as a Service (BaaS) technologies. 2 years of experience in client-server applications in the E-commerce industry, with 1 year as an iOS Interface Engineer in an EdTech sports startup. I have strong foundation of UIKit and new SwiftUI framework, architecture patterns and able to effectively collaborate with cross-functional teams and deliver high-quality software solutions.
 
-- 🌱 Open to **iOS Software Engineer positions** in US or remote
+# What I create
+I'm working on [NYCoworker](https://www.nycoworker.com) for iOS - solution for people who like working outside home office. Meet wide range of locations around NYC free to work and networking opportunity.
 
-- 📫 How to reach me **michael.kolkov@gmail.com**
+Besides, I'm always improving my iOS Developer skills by creating portfolio projects which represents newest technologies I have learned. For recent 6 months I polished my knowledge in SnapKit, Alamofire and Combine frameworks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michaelkolkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelkolkov" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+![Michael Kolkov's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mireabot&show_icons=true&theme=slateorange)
