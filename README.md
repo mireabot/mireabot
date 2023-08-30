@@ -19,4 +19,5 @@ Besides, I'm always improving my iOS Developer skills by creating portfolio proj
 </p>
 
 **My Achievements**
+
 I participated in the open-source project [RandomPro](https://github.com/V1taS/Random-Pro) for iOS. My involvement centered around implementing the VIPER architecture and utilizing Tuist. As a contribution, I developed an extra module called "Quotes," in addition to developing novel features for the product.
